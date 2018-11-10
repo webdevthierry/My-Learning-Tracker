@@ -1,12 +1,12 @@
-# My Learning Tracker [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Web%20Dev%20learning%20tracker%20&url=https://github.com/Syknapse/My-Learning-Tracker&via=syknapse&hashtags=100DaysofCode)
+# My Learning Tracker <!-- [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Web%20Dev%20learning%20tracker%20&url=https://github.com/webdevthierry/My-Learning-Tracker&via=webdevthierry&hashtags=100DaysofCode) -->
 
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
-[For my full portfolio click here](https://syknapse.github.io/Syk-Houdeib/ "https://syknapse.github.io/Syk-Houdeib") || [For my learning log click here](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md "Regular logs of my learning with links, reflections, and information about my learning process")
+[For my full portfolio click here](https://www.simplonlyon.fr/promo5/thor/) || [For my learning log click here](https://github.com/webdevthierry/My-Learning-Tracker/blob/master/log.md "Regular logs of my learning with links, reflections, and information about my learning process")
 
 ----
 
-## Skills
+## Front-end skills
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
@@ -14,28 +14,48 @@ A complete log of my web development skills, learning, resources, highlights, in
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Bootstrap4**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Bulma**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Git/Git bash**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Open Source Contribution**      | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**React**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Angular 4**                     | ![done][done]     |               |               |                  |                |                 |
-|**Task runners Gulp/Grunt**       | ![done][done]     |               |               |                  |                |                 |
-|**NPM scripts**                   | ![done][done]     |               |               |                  |                |                 |
+|**jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**VueJS**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Angular7**                      | ![done][done]     |               |               |                  |                |                 |
+|**React**                         |                   |               |               |                  |                |                 |
+|**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**AJAX**                          | ![done][done]     |               |               |                  |                |          .      |
+
+## Back-end skills
+
+|               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
+|:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
+|**PHP**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**MySQL**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Laravel**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Node.js**                       | ![done][done]     |               |               |                  |                |                 |
+|**Symfony**                       | ![done][done]     |               |               |                  |                |                 |
+|**Python**                        | ![done][done]     |               |               |                  |                |                 |
+|**MongoDB**                       | ![done][done]     |               |               |                  |                |                 |
+
+## Other skills
+
+[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
+
+|               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
+|:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
+|**Git/Git bash**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**GitHub/GitLab**                 | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**NPM scripts**                   | ![done][done]     |               |               |                  |                |                 |
+|**NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**YARN**                          | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Docker**                        | ![done][done]     |               |               |                  |                |                 |
+|**Task runners Gulp/Grunt**       |                   |               |               |                  |                |                 |
+|**Open Source Contribution**      |                   |               |               |                  |                |                 |
 
 ----
 
@@ -49,25 +69,9 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Feb 2018 | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
-| ![Completed][Completed]     | Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
-| ![Completed][Completed]     | 2017     | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
-| ![Completed][Completed]     | 2017     | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
-| ![Completed][Completed]     | 2017     | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
-| ![Completed][Completed]     | 2017     | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
-| ![In Progress][In Progress] |          | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
-| ![In Progress][In Progress] |          | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
+| ![Completed][Completed]     | 2016     | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
 | ![In Progress][In Progress] |          | [Front End Development]                                         | [Free Code Camp]                            |
-| ![In Progress][In Progress] |          | [JavaScript30]                                                  | [Wes Bos]                                   |
-| ![In Progress][In Progress] |          | Read [JavaScript & jQuery]                                      | Jon Duckett                                 |
-| ![Soon][Soon]               |          | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |
-| ![Soon][Soon]               |          | Read JavaScript: The Good Parts                                 | Douglas Crockford                           |
-| ![Soon][Soon]               |          | Read [You Don't know JavaScript]                                | Kyle Simpson                                |
-| ![Soon][Soon]               |          | [Learn CSS Grid]                                                | [Per Harald Borgen] - [Scrimba]             |
+| ![In Progress][In Progress] |          | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
 | ![Soon][Soon]               |          | [The Web Developer Bootcamp - Back End]                         | Colt Steele - [Udemy]                       |
 
 [//]: # (Reference links to courses)
@@ -149,11 +153,13 @@ And here is a chronological log of the highlights of my learning:
 
 I'm currently interested in/excited about:
 
-+ React
-+ CSS Grid
-+ Progressive enhancement
-+ Task runners
-+ Command Line and unix commands
++ VueJS
++ Laravel
++ Go
++ Python
++ Bulma
++ Docker
++ Command Line
 
 ----
 
@@ -170,21 +176,21 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [ ] Write tests for your code
 * [x] Help another web developer with something they’re having trouble with
 * [x] Attend an event about web development
-* [x] Follow developers you admire on social media
+* [ ] Follow developers you admire on social media
 * [ ] Read a book about coding
 * [x] Open your browser console
-* [x] Get data from an API
+* [ ] Get data from an API
 * [ ] Hide API keys from the public
-* [x] Post a question on Stack Overflow
+* [ ] Post a question on Stack Overflow
 * [x] Push code to GitHub or GitLab or BitBucket
-* [ ] Speak about something web development-related at an event
+* [x] Speak about something web development-related at an event
 * [x] Complete a technical interview
 * [ ] Participate in a hackathon
 * [x] Deploy a project
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
-* [ ] Get paid to code
-* [ ] When people ask what you do, respond saying you’re a developer :)
+* [x] Get paid to code
+* [x] When people ask what you do, respond saying you’re a developer :)
 
 ----
 
